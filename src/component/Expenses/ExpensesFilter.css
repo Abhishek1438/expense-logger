@@ -1,0 +1,29 @@
+.expenses-filter {
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: 0 1rem;
+    margin: 2rem 0 1rem 0;
+}
+
+.expenses-filter__control {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expenses-filter__control label {
+    color: rgb(255, 255, 255);
+}
+
+.expenses-filter__control select {
+    padding: 0.5rem 3rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    border-radius: 0.3rem;
+}
+
+.expenses-filter__control option {
+    padding: 0.7rem 2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
